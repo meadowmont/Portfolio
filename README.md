@@ -2,4 +2,3 @@ Hello! My name is Meadow Monticello, and I am soon to be graduate of Mathematics
 Attached are some projects from throughout the years. 
 I have experierence with a variety of programming languages.
 I work with data visualization too. 
-Here is my Tableau link: https://public.tableau.com/app/profile/meadow.monticello 
