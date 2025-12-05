@@ -177,3 +177,4 @@ end_time <- Sys.time()
 # Print the execution times
 cat("Parallel (type 1) execution time:",
     end_time - start_time, "\n")
+
