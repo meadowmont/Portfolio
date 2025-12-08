@@ -7,7 +7,7 @@ ________________________________________________________________________________
 * Here you can find data visualization for a variety of topics/datasets.
 * These were accompanied by presentation and analysis.
 * The goal is to preserve the data and make designs that capture relationships in the data.
-* View my Tableau public [here]([https://public.tableau.com/app/profile/meadow.monticello ]).
+* View my Tableau public [here](https://public.tableau.com/app/profile/meadow.monticello).
 
 # Python
 ## RobotNurse - AI
