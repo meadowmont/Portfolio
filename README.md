@@ -1,6 +1,6 @@
-Hello! My name is Meadow Monticello, and I am a mathematician and data scientist. 
-Attached are some projects that showcase my work and research with R, Python, and data visualization. 
-Check below for descriptions of my projects and navigate to their corresponding files. 
+### Hello! My name is Meadow Monticello, and I am a mathematician and data scientist. 
+### Attached are some projects that showcase my work and research with R, Python, and data visualization. 
+### Check below for descriptions of my projects and navigate to their corresponding files. 
 _____________________________________________________________________________________________________
 # Visualization
 ## Tableau
