@@ -10,7 +10,7 @@ ________________________________________________________________________________
 * View my Tableau public [here](https://public.tableau.com/app/profile/meadow.monticello).
 
 # Python
-## RobotNurse - AI
+## [RobotNurse - AI](https://github.com/meadowmont/Portfolio/tree/main/Python/RobotNurse)
 * This a Python project.
 * An agent (a robot nurse) traverses through a hospital maze to make deliveries to different wards.
 * The hospital floor is represented by a 50X50 matrix and the agent is contrained by walls, doors, and hallway obstructions.
