@@ -17,7 +17,7 @@ ________________________________________________________________________________
 * The agent can receive multiple commands and prioritizes deliveries in higher-need wards.
 * The user can preference A* or Dijkstra's path finding heuristic.
 
-## Machine Learning (ML) Comparisons
+## [Machine Learning (ML) Comparisons](https://github.com/meadowmont/Portfolio/tree/main/Python/Machine%20Learning)
 * I used machine learning techniques for classification and regression.
 * I compared the performance of k-Nearest neighbors, mulitlayer perceptron regressor, random forest, support vector reression, multiple linear regression, and logistic regression.
 * Data sets were about a possum population and F1 races.
