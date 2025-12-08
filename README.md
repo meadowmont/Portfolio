@@ -1,4 +1,3 @@
-Hello! My name is Meadow Monticello, and I am soon to be graduate of Mathematics and Data Science. 
-Attached are some projects from throughout the years. 
-I have experierence with a variety of programming languages.
-I work with data visualization too. 
+Hello! My name is Meadow Monticello, and I am a mathematician and data scientist. 
+Attached are some projects that showcase my work and research with R, Python, and data visualization. 
+_____________________________________________________________________________________________________
