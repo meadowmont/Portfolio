@@ -21,6 +21,7 @@ ________________________________________________________________________________
 * I used machine learning techniques for classification and regression.
 * I compared the performance of k-Nearest neighbors, mulitlayer perceptron regressor, random forest, support vector reression, multiple linear regression, and logistic regression.
 * Data sets were about a possum population and F1 races.
+* [Here](https://colab.research.google.com/github/Kscott02/Portfolio/blob/main/Python/F1_Project/DSC326_Final.ipynb) is the Colab link.
 
 # R
 ## Parallel Processing
