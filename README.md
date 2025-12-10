@@ -33,3 +33,6 @@ ________________________________________________________________________________
 * This is an analysis of the "janitor" R-package
 * It is demonstrated and outlined in the presentation.
 
+## [Hypothesis Testing]()
+* This showcases hypothesis testing in R.
+* The same coding methods can be applied to statistical analysis with a variety of data.
