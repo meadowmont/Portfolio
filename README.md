@@ -24,12 +24,12 @@ ________________________________________________________________________________
 * [Here](https://colab.research.google.com/github/Kscott02/Portfolio/blob/main/Python/F1_Project/DSC326_Final.ipynb) is the Colab link.
 
 # R
-## Parallel Processing
+## [Parallel Processing]()
 * I researched the effeciency of parallel processing in R.
 * I focused on optimization fuctions ran in parallel.
 * This is used in engineering and improving the predictive ability of ML models
 
-## Janitor 
+## [Janitor](https://github.com/meadowmont/Portfolio/tree/main/R/Janitor) 
 * This is an analysis of the "janitor" R-package
 * It is demonstrated and outlined in the presentation.
 
