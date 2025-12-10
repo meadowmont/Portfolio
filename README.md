@@ -36,3 +36,7 @@ ________________________________________________________________________________
 ## [Hypothesis Testing](https://github.com/meadowmont/Portfolio/blob/main/R/HypothesisTestingANOVA.R)
 * This showcases hypothesis testing in R.
 * The same coding methods can be applied to statistical analysis with a variety of data.
+
+## [Multiple Linear Regression](https://github.com/meadowmont/Portfolio/blob/main/R/Monticello_Meadow_Hospital_MLR.R)
+* I used hospital data and ran multiple linear regression (MLR).
+* SImiliar to hypothesis testing, this code showcases strategies to analyze data effeciently in R.
