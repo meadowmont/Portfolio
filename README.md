@@ -17,7 +17,7 @@ ________________________________________________________________________________
 * The agent can receive multiple commands and prioritizes deliveries in higher-need wards.
 * The user can preference A* or Dijkstra's path finding heuristic.
 
-## [Missingness in Healthcare Data Research]()
+## [Missingness in Healthcare Data Research](https://github.com/meadowmont/Portfolio/tree/main/Python/Imputation%20Research)
 * I am conducting research of different impuation methods and their strengths and weaknesses.
 * While this an ongoing project, visit the Colab Notebook to see the six imputation methods studied.
 * View the presentation to see my resarch findings thus far.
