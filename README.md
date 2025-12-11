@@ -17,6 +17,12 @@ ________________________________________________________________________________
 * The agent can receive multiple commands and prioritizes deliveries in higher-need wards.
 * The user can preference A* or Dijkstra's path finding heuristic.
 
+## [Missingness in Healthcare Data Research]()
+* I am conducting research of different impuation methods and their strengths and weaknesses.
+* While this an ongoing project, visit the Colab Notebook to see the six imputation methods studied.
+* View the presentation to see my resarch findings thus far.
+* The "framingham" dataset was collected in a ten year heart disease study and was used for initial testing.
+
 ## [Machine Learning (ML) Comparisons](https://github.com/meadowmont/Portfolio/tree/main/Python/Machine%20Learning)
 * I used machine learning techniques for classification and regression.
 * I compared the performance of k-Nearest neighbors, mulitlayer perceptron regressor, random forest, support vector reression, multiple linear regression, and logistic regression.
